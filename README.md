@@ -19,3 +19,4 @@ Load testing on the API's will be initiated by increasing the Virtual Users on t
 **To See the Basic scripting done on these API's**
 Open the Collection
 Click on the API's & navigate to Scripts
+**I HAVE UPLOADED An ADDITIONAL ZIP FILE WHICH HAS A VIDEO FILE IN IT WHICH WILL SHOWCASE HOW TO RUN THE COLLECTION**
