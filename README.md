@@ -1,14 +1,14 @@
 # Madhu_API-Repo
 **Steps to be followed to Run the Scripts on the API Endpoints**
   Please download the API collection attached to your desktop
-  Install the POSTMAN desktop app which can be found here  https://www.postman.com/downloads/
-  After installing, Import the Given API collection file in to the Postman
-  Click on the Three dotted Elipses right next to the Collection Folder
-  Click on Run Collection option
-  Functional & Performance modes are shown along with the API collection the left panel
-  Select Functional Tab
-  Click on RUN API COLLECTIONS button
-  All the API's will be executed & will provide the PASS/FAIL output at the end of the cycle
+    Install the POSTMAN desktop app which can be found here  https://www.postman.com/downloads/
+    After installing, Import the Given API collection file in to the Postman
+    Click on the Three dotted Elipses right next to the Collection Folder
+    Click on Run Collection option
+    Functional & Performance modes are shown along with the API collection the left panel
+    Select Functional Tab
+    Click on RUN API COLLECTIONS button
+    All the API's will be executed & will provide the PASS/FAIL output at the end of the cycle
 ****To Verify the Performance of the API's**
 Select Performance Tab
 Select the Load profile
